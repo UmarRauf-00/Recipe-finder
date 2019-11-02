@@ -1,7 +1,7 @@
-#Recipe Finder App
-##This app helps you find any recipe and its ingredients 
+# ReactJs Recipe Finder App
+## This app helps you find any recipe and its ingredients 
 
-###This app utilizes information fetched from an API
+### This app utilizes information fetched from an API
 
 
 **Stack used to create this app:**
