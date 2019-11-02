@@ -3,7 +3,6 @@
 
 ### This app utilizes information fetched from an API
 
-
 **Stack used to create this app:**
 - React (JS Framework)
 - (Edamam API)[https://api.edamam.com/] 
