@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # ReactJs Recipe Finder App
+=======
+# Recipe Finder App
+>>>>>>> 604f0e7cf6c6f310f8f9ac933f5f8b253a09d75d
 ## This app helps you find any recipe and its ingredients 
 
 ### This app utilizes information fetched from an API
