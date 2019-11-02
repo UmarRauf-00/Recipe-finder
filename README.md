@@ -10,5 +10,5 @@
 
 **This app is also deployed on Netlify**
 
-You can see the deployed app at: [Being deployed right now]
+You can see the deployed app at: (Netlify)[https://jovial-wozniak-c0d390.netlify.com]
 
